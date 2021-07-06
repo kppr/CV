@@ -1,0 +1,104 @@
+body {
+  background-color: #f0f8ff;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 40px;
+  font-style: normal;
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: 'Montserrat';
+  font-size: 25px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+th {
+  color: #66BFBF;
+  font-family: 'Montserrat';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+p {
+  color: black;
+  font-family: 'Montserrat';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+td {
+  color: black;
+  font-family: 'Montserrat';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+li {
+  color: black;
+  font-family: 'Montserrat';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+a {
+  color: #66BFBF;
+  font-family: 'Montserrat';
+  font-size: 17px;
+  font-style: normal;
+  font-weight: bold;
+}
+
+label {
+  color: black;
+  font-family: 'Montserrat';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: normal;
+}
+
+img:hover {
+  background-color: green;
+  height: 250px;
+  width: 420px;
+}
+
+
+.Tandoori {
+  height: 160px;
+  width: 250px;
+  border-radius: 100%;
+}
+
+.Nagapork {
+  height: 160px;
+  width: 250px;
+  border-radius: 100%;
+}
+
+.Chicken:hover {
+  color: green;
+  font-size:25px;
+}
+
+.Naga:hover {
+  color: green;
+  font-size:25px;
+}
